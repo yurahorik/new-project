@@ -1,4 +1,3 @@
-# new-project
 Jira Ticket:
 
 Task Title: Set up new Git repository and create development branch for 'new-project'
